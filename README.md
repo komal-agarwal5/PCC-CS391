@@ -31,7 +31,7 @@ Contact: [komal.agarwal0709@gmail.com]
 
 
 ## License
-[Unlicense ©️ Komal Agarwal](https://github.com/komal-agarwal5/C/blob/0cef763ddd44403967f2b08fb3f4eef2f9c247a9/LICENSE)
+[Apache License 2.0 ©️ Komal Agarwal](https://github.com/komal-agarwal5/PCC-CS391/blob/main/LICENSE)
 
 
 ## 🙋‍♂️ Support
